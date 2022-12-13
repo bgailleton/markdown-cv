@@ -1,28 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Boris GAILLETON
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Boris Gailleton
+Post-doctorant - Université Rennes 1
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="boris.gailleton@univ-rennes1.fr">boris.gailleton@univ-rennes1.fr</a>
+| <a href="bgailleton.github.io">bgailleton.github.io</a>
 </div>
 
 
-## Currently
+## Poste actuel
 
-Standing on the shoulders of giants
+Chercheur Post-doctorant dans le groupe DEMODE - OSUR - Université Rennes 1
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Projet de recherche:
+-  Développement de méthodes numériques 
 
 
 ## Education
