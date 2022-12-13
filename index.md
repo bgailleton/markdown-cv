@@ -31,20 +31,17 @@ Projets de recherche:
 - Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR
 - Développement et deploiement de code `c++` et `python`
 
-## Education
+## Parcours Académique
 
-`1654-1660`
-__The King's School, Grantham.__
+### Thèse de doctorat (Université d'Édimbourg, 2016 - 2020)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+_Disentangling composite forcings on river channel steepness in heterogeneous landscapes_:
+- Dévelopement de méthodes numériques pour l'analyse de MNT pour en extraire des informations sur la tectonique
+- Étude approfondie de la géomorphométrie fluviale via les proxy dit des indices de concavité et de la pente normalisée des rivières
 
-- Sizar
+- Master II en Géologie Minière, UniLaSalle et Université Laurentienne (Sudbury, Ontario, Canada) - 2015
+- Licence III en Géosciences, UniLaSalle (Ex-Institut Polytechnique LaSalle Beauvais, Beauvais, France) - 2012
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
