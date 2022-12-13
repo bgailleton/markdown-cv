@@ -11,13 +11,25 @@ Post-doctorant - Université Rennes 1
 </div>
 
 
-## Poste actuel
+## Poste académique actuel (2022-2025)
 
-Chercheur Post-doctorant dans le groupe DEMODE - OSUR - Université Rennes 1
+Chercheur Post-doctorant dans le groupe DEMODE - projet FEASIBLe - Université Rennes 1
 
-Projet de recherche:
--  Développement de méthodes numériques 
+Projets de recherche:
+-  Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique
+-  Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale
+-  Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)
 
+## Postes académiques passés (2019-2022)
+
+### Chercheur post-doctorant, GFZ Potsdam (2020 - 2022)
+- Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink
+- Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface
+- Développement et deploiement de code `c++` et `python`
+
+### Ingénieur de recherche pour le projet FORESEE, University of Edinburgh - Telespazio (2019 - 2020)
+- Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR
+- Développement et deploiement de code `c++` et `python`
 
 ## Education
 
