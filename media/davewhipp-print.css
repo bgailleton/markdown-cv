@@ -102,7 +102,7 @@ ul {
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
+/* 	text-indent: -1.25em; */
 	/*color: #777;*/
 }
 
@@ -116,12 +116,14 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 50%;
+	width: 30%;
+	text-align: left;
+	font: normal bold;
 }
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2em;
 	line-height: 1em;
 	position: relative;
 
@@ -134,23 +136,22 @@ h1+p {
 }
 
 h2 {
-	font-size: 0.7em;
-	font: normal bold;
+	font-size: 1em;
 	color: #a00;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
-	text-align: right;
+
 }
 
 
 h3 {
-	font-size: 1em;
+	font-size: 0.9em;
+	font: normal normal;
 	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
-	text-align: right;
 
 }
 
