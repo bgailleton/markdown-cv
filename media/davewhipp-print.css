@@ -70,8 +70,8 @@ p {
 }
 
 code {
-	font: normal normal;
-	font-size: 90%;
+	font: normal bold;
+	font-size: 120%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
