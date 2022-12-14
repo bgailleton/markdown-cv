@@ -50,19 +50,25 @@ _Disentangling composite forcings on river channel steepness in heterogeneous la
 - Relevés terrain d'échantillon pour analyse cosmogéniques et analyse de résistance de roches in-situ
 - Développement de logiciel de recherche (LSDTopoTools)
 
+### Pré-thèse
+`2010-2015`
+
 - Master II en Géologie Minière, UniLaSalle et Université Laurentienne (Sudbury, Ontario, Canada) - 2015
 - Licence III en Géosciences, UniLaSalle (Ex-Institut Polytechnique LaSalle Beauvais, Beauvais, France) - 2012
 
+## Work experience (Industry)
+
+### Ingénieur de recherche 
+`2015`
+Caractérisation de minerais de fer - Arcelor Mittal
+  * Analyse laboratoire (FTIR, MEB, Microscope optique, XRF)
+  * Synthèses sur les gisements BIF
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+### Technicien géophysique
+`2013`
+Technicien de mesure géophysique - SolData Geophysics - Vinci
+  * acquisition et traitement de données radar, sismique et électrique
 
 
 ## Publications
@@ -78,24 +84,6 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
