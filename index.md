@@ -18,9 +18,10 @@ Post-doctorant - Université Rennes 1
 **Chercheur Post-doctorant dans le groupe DEMODE - projet FEASIBLe - Université Rennes 1**
 
 Projets de recherche:
--  Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique
--  Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale
--  Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)
+
+* Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique
+* Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale
+* Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)
 
 ## Postes académiques passés
 `2019 - 2020`
@@ -28,16 +29,17 @@ Projets de recherche:
 ### Chercheur post-doctorant
 `2020 - 2022`
 **Chercheur post-doctorant dans le groupe _Erdoberflächenprozessmodellierung_ au GFZ (Potsdam)**
-- Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink
-- Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface
-- Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)
-- Développement et deploiement de code `c++` et `python`
+
+* Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink
+* Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface
+* Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)
+* Développement et deploiement de code `c++` et `python`
 
 ### Ingénieur de recherche 
 **Ingenieur de recherche** pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
 `2019 - 2020`
-- Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR
-- Développement et deploiement de code `c++` et `python`
+* Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR
+* Développement et deploiement de code `c++` et `python`
 
 ## Parcours Académique
 
@@ -45,22 +47,23 @@ Projets de recherche:
 `2016 - 2020`
 
 _Disentangling composite forcings on river channel steepness in heterogeneous landscapes_:
-- Dévelopement de méthodes numériques pour l'analyse de MNT pour en extraire des informations sur la tectonique
-- Étude approfondie de la géomorphométrie fluviale via les proxy dit des indices de concavité et de la pente normalisée des rivières
-- Relevés terrain d'échantillon pour analyse cosmogéniques et analyse de résistance de roches in-situ
-- Développement de logiciel de recherche (LSDTopoTools)
+* Dévelopement de méthodes numériques pour l'analyse de MNT pour en extraire des informations sur la tectonique
+* Étude approfondie de la géomorphométrie fluviale via les proxy dit des indices de concavité et de la pente normalisée des rivières
+* Relevés terrain d'échantillon pour analyse cosmogéniques et analyse de résistance de roches in-situ
+* Développement de logiciel de recherche (LSDTopoTools)
 
 ### Pré-thèse
 `2010-2015`
 
-- Master II en Géologie Minière, UniLaSalle et Université Laurentienne (Sudbury, Ontario, Canada) - 2015
-- Licence III en Géosciences, UniLaSalle (Ex-Institut Polytechnique LaSalle Beauvais, Beauvais, France) - 2012
+* Master II en Géologie Minière, UniLaSalle et Université Laurentienne (Sudbury, Ontario, Canada) - 2015
+* Licence III en Géosciences, UniLaSalle (Ex-Institut Polytechnique LaSalle Beauvais, Beauvais, France) - 2012
 
 ## Work experience (Industry)
 
 ### Ingénieur de recherche 
 `2015`
 Caractérisation de minerais de fer - Arcelor Mittal
+
   * Analyse laboratoire (FTIR, MEB, Microscope optique, XRF)
   * Synthèses sur les gisements BIF
 
@@ -68,6 +71,7 @@ Caractérisation de minerais de fer - Arcelor Mittal
 ### Technicien géophysique
 `2013`
 Technicien de mesure géophysique - SolData Geophysics - Vinci
+
   * acquisition et traitement de données radar, sismique et électrique
 
 
