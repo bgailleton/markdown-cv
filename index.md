@@ -15,7 +15,7 @@ Post-doctorant - Université Rennes 1
 
 `2022-2025`
 
-Chercheur Post-doctorant dans le groupe DEMODE - projet FEASIBLe - Université Rennes 1
+**Chercheur Post-doctorant dans le groupe DEMODE - projet FEASIBLe - Université Rennes 1**
 
 Projets de recherche:
 -  Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique
@@ -25,14 +25,17 @@ Projets de recherche:
 ## Postes académiques passés
 `2019 - 2020`
 
-### Chercheur post-doctorant, GFZ Potsdam 
+### Chercheur post-doctorant
 `2020 - 2022`
+**Chercheur post-doctorant dans le groupe _Erdoberflächenprozessmodellierung_ au GFZ (Potsdam)**
 - Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink
 - Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface
+- Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)
 - Développement et deploiement de code `c++` et `python`
 
-### Ingénieur de recherche pour le projet FORESEE, University of Edinburgh - Telespazio 
-`2019 - 2020
+### Ingénieur de recherche 
+**Ingenieur de recherche** pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
+`2019 - 2020`
 - Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR
 - Développement et deploiement de code `c++` et `python`
 
@@ -44,6 +47,8 @@ Projets de recherche:
 _Disentangling composite forcings on river channel steepness in heterogeneous landscapes_:
 - Dévelopement de méthodes numériques pour l'analyse de MNT pour en extraire des informations sur la tectonique
 - Étude approfondie de la géomorphométrie fluviale via les proxy dit des indices de concavité et de la pente normalisée des rivières
+- Relevés terrain d'échantillon pour analyse cosmogéniques et analyse de résistance de roches in-situ
+- Développement de logiciel de recherche (LSDTopoTools)
 
 - Master II en Géologie Minière, UniLaSalle et Université Laurentienne (Sudbury, Ontario, Canada) - 2015
 - Licence III en Géosciences, UniLaSalle (Ex-Institut Polytechnique LaSalle Beauvais, Beauvais, France) - 2012
