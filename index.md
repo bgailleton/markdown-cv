@@ -11,7 +11,7 @@ Post-doctorant - Université Rennes 1
 </div>
 
 
-## Poste académique actuel
+## Poste actuel
 
 `2022-2025`
 
@@ -23,10 +23,10 @@ Projets de recherche:
 * Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale
 * Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)
 
-## Postes académiques passés
+## Postes passés
 `2019 - 2020`
 
-### Chercheur post-doctorant
+### Post-doctorant
 `2020 - 2022`
 **Chercheur post-doctorant dans le groupe _Erdoberflächenprozessmodellierung_ au GFZ (Potsdam)**
 
@@ -35,15 +35,15 @@ Projets de recherche:
 * Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)
 * Développement et deploiement de code `c++` et `python`
 
-### Ingénieur de recherche 
-**Ingenieur de recherche** pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
+### RSE
+**Ingenieur de recherche** (Research Software Engineer) pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
 `2019 - 2020`
 * Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR
 * Développement et deploiement de code `c++` et `python`
 
 ## Parcours Académique
 
-### Thèse de doctorat (Université d'Édimbourg)
+### Thèse
 `2016 - 2020`
 
 _Disentangling composite forcings on river channel steepness in heterogeneous landscapes_:
@@ -58,21 +58,21 @@ _Disentangling composite forcings on river channel steepness in heterogeneous la
 * Master II en Géologie Minière, UniLaSalle et Université Laurentienne (Sudbury, Ontario, Canada) - 2015
 * Licence III en Géosciences, UniLaSalle (Ex-Institut Polytechnique LaSalle Beauvais, Beauvais, France) - 2012
 
-## Work experience (Industry)
+## Autres postes
 
-### Ingénieur de recherche 
+### Ingénieur
 `2015`
-Caractérisation de minerais de fer - Arcelor Mittal
+**Ingénieur de recherche** Caractérisation de minerais de fer - Arcelor Mittal
 
   * Analyse laboratoire (FTIR, MEB, Microscope optique, XRF)
   * Synthèses sur les gisements BIF
 
 
-### Technicien géophysique
+### Technicien 
 `2013`
-Technicien de mesure géophysique - SolData Geophysics - Vinci
+**Technicien en géophysique** de mesure géophysique - SolData Geophysics - Vinci
 
-  * acquisition et traitement de données radar, sismique et électrique
+  * Acquisition et traitement de données radar, sismique et électrique
 
 
 ## Publications
