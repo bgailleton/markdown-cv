@@ -33,13 +33,13 @@ Projets de recherche:
 · Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink  
 · Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface  
 · Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)  
-· Développement et déploiement de code `c++` et `python`
+· Développement et déploiement de code c++ et python
 
 ### RSE
 **Ingenieur de recherche** (Research Software Engineer) pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
-`2019 - 2020`  
+`2019 - 2020`  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
 · Prédictions de glissement de terrain en liant une approche de modèles numérique avec des données INSAR  
-· Développement et déploiement de code `c++` et `python`
+· Développement et déploiement de code c++ et python
 
 ## Parcours Académique
 
