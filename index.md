@@ -136,44 +136,62 @@ Benoit Bovy, G. D. McBain, **Boris Gailleton**, & Raphael Lange. (2021). benbovy
 
 ### Conference papers
 
+`2022`
 Voigtländer, A., Turowski, J. M., and **Gailleton, B.**: Stressed landscape evolution, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022
 
+`2022`
 **Gailleton, B.**, Malatesta, L., Braun, J., Cordonnier, G., & Bovy, B. (2022). (Un) predictability of sediment pathways in the transport sections of Source to Sink systems, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022
 
+`2022`
 van der Wal, J. L., Nottebaum, V., Stauch, G., **Gailleton, B.**, Binnie, S., Tully, J., ... & Reicherter, K. (2022). Hidden Tectonics: Finding faults in (seemingly) climate controlled landscapes, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022
 
+`2021`
 **Boris Gailleton**, Hugh Sinclair, Simon Mudd, Emma Graf, Liviu Matenco. Unravelling present days tectonics from channel steepness in a lithologically complex landscape. 27e édition de la Réunion des Sciences de la Terre, SGF, CNRS, Laboratoire de Géologie de Lyon ou l’étude de la Terre, des planètes et de l’environnement, Nov 2021, Lyon, France.
 
+`2021`
 **Gailleton, B.**, Malatesta, L., Braun, J., & Cordonnier, G. (2021). Dynamic modelling framework to track sediment provenance and solve lakes in long-term landscape evolution models, EGU General Assembly 2021, Vienna, Austria
 
+`2020`
 Olive, J. A. L., Malatesta, L. C., & **Gailleton, B.** (2020, December). Quantifying the efficiency of river erosion in up-warped fault blocks and its tectonic implications. In AGU Fall Meeting Abstracts (Vol. 2020, pp. EP032-06).
 
+`2020`
 **Gailleton, B.**, Malatesta, L. C., Braun, J., & Cordonnier, G. (2020, December). Lagrangian framework to simulate landscapes with local sinks and independently solved fluxes of water, sediment, and tracers. In AGU Fall Meeting Abstracts (Vol. 2020, pp. EP036-0013).
 
+`2020`
 Harries, R., Kirstein, L., Whittaker, A., Attal, M., **Gailleton, B.**, & Mudd, S. (2020, May). Linking source to stratigraphy through sediment transport: The importance of spatially variable climate on the evolution of the Argentine Andes. In EGU General Assembly Conference Abstracts (p. 22349).
 
+`2020`
 **Gailleton, B.**, Mudd, S., Clubb, F., Hurst, M., & Grieve, S. (2020). Importance of concavity for interpreting rates and patterns of landscape evolution from river profiles (No. EGU2020-503). Copernicus Meetings.
 
+`2019`
 Clubb, F. J., Mudd, S. M., Grieve, S. W., Hurst, M. D., **Gailleton, B.**, Milodowski, D. T., ... & Goodwin, G. (2019, December). LSDTopoTools: open-source software for topographic analysis. In AGU Fall Meeting Abstracts (Vol. 2019, pp. EP53F-2216).
 
+`2018`
 Sinclair, H. D., Walcott, R., Naylor, M., & **Gailleton, B.** (2018, December). Catchment shape of Himalayan Rivers determined by lateral drainage capture. In AGU Fall Meeting Abstracts (Vol. 2018, pp. EP21B-2222).
 
+`2018`
 **Gailleton, B.**, Sinclair, H., & Mudd, S. (2018, April). Differential post-orogenic topography along the Romanian Carpathians. In EGU General Assembly Conference Abstracts (p. 8835).
 
+`2017`
 **Gailleton, B.**, Mudd, S. M., & Clubb, F. J. (2017, December). Automated Detection of Knickpoints and Knickzones Across Transient Landscapes. In AGU Fall Meeting Abstracts (Vol. 2017, pp. EP53B-1704).
 
+`2027`
 **Gailleton, B.**, Sinclair, H., Mudd, S., & Attal, M. (2017, April). Topographic analysis across the active to post-orogenic decaying Carpathian mountain range. In EGU General Assembly Conference Abstracts (p. 5216).
 
 ### Articles de presse
 
+`2021`
 Ott, R. F., **Gailleton, B.**, Malatesta, L. C., Becker, L., & Braun, J. (2021). Stabilität über eine Million Jahre. System Erde, 11(2), 36-41.
 
+`2020`
 Biescas, E., Mudd, S.M., Cooksley, G., Ruiz Sánchez-Oro, M., Goodwin, G., & **Gailleton, B.** (2020). Dynamic Landslide Failure Prediction Model Using Remote Sensing Data. Polaris Innovation Journal, 43, 5–10.
 
+`2020`
 Zinke, L. Stuck upstream. Nat Rev Earth Environ 2, 161 (2021), press release about _Harries et al., 2020_
 
 ### PhD Thesis
 
+`2020`
 **Gailleton, B.** (2020). Disentangling composite forcings on river channel steepness in heterogeneous landscapes.
 
 <!-- ### Footer
