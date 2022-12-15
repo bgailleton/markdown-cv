@@ -17,7 +17,7 @@ Post-doctorant - Université Rennes 1
 
 **Chercheur Post-doctorant dans le groupe DEMODE - projet FEASIBLe - Université Rennes 1**
 
-Projets de recherche:
+Projets de recherche:  
   
 · Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique    
 · Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale    
@@ -28,7 +28,7 @@ Projets de recherche:
 
 ### Post-doctorant
 `2020 - 2022`
-**Chercheur post-doctorant dans le groupe _Erdoberflächenprozessmodellierung_ au GFZ (Potsdam)**
+**Chercheur post-doctorant dans le groupe _Erdoberflächenprozessmodellierung_ au GFZ (Potsdam)**  
   
 · Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink  
 · Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface  
@@ -37,7 +37,8 @@ Projets de recherche:
 
 ### RSE
 **Ingenieur de recherche** (Research Software Engineer) pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
-`2019 - 2020`  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
+`2019 - 2020`  
+  
 · Prédictions de glissement de terrain en liant une approche de modèles numérique avec des données INSAR  
 · Développement et déploiement de code c++ et python
 
