@@ -17,11 +17,11 @@ Post-doctorant - Université Rennes 1
 
 **Chercheur Post-doctorant dans le groupe DEMODE - projet FEASIBLe - Université Rennes 1**
 
-Projets de recherche:
+Projets de recherche:  
 
-* Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique
-* Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale
-* Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)
+* Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique  
+* Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale  
+* Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)  
 
 ## Postes passés
 `2019 - 2020`
