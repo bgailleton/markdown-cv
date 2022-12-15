@@ -123,13 +123,13 @@ Mudd, S. M., Clubb, F. J., **Gailleton, B.**, and Hurst, M. D. (2018) How concav
 Mudd, S.M., Clubb, F.J., Grieve, S.W.D., Milodowski, D.T., **Gailleton, B.**, Hurst, M.D., Valters, D.V., Wickert, A.D., & Hutton, E.W.H. (2022). LSDtopotools/LSDTopoTools2: LSDTopoTools2 v0.7 (v0.7). Zenodo.
 
 `2021`
-**Boris Gailleton**. (2021). fastscape-lem/fastscape-litho: fastscape-litho 0.0.1 (v0.0.1). Zenodo. 
+**Gailleton, B.**. (2021). fastscape-lem/fastscape-litho: fastscape-litho 0.0.1 (v0.0.1). Zenodo. 
 
 `2021`
-**Boris Gailleton**, & Simon Marius Mudd. (2021). LSDtopotools/lsdtopytools: lsdtopytools (v0.4). 
+**Gailleton, B.**, & Simon Marius Mudd. (2021). LSDtopotools/lsdtopytools: lsdtopytools (v0.4). 
 
 `2021`
-Benoit Bovy, G. D. McBain, **Boris Gailleton**, & Raphael Lange. (2021). benbovy/xarray-simlab: 0.5.0 (0.5.0). 
+Benoit Bovy, G. D. McBain, **Gailleton, B.**, & Raphael Lange. (2021). benbovy/xarray-simlab: 0.5.0 (0.5.0). 
 
 `2021`
 **Gailleton, B.**, Ruiz Sanchez-Oro, M., Goodwin, G.C.H., Kinnear, L., & Mudd, S.M. (2021). lsdfailtools (0.1).
@@ -146,7 +146,7 @@ Voigtländer, A., Turowski, J. M., and **Gailleton, B.**: Stressed landscape evo
 van der Wal, J. L., Nottebaum, V., Stauch, G., **Gailleton, B.**, Binnie, S., Tully, J., ... & Reicherter, K. (2022). Hidden Tectonics: Finding faults in (seemingly) climate controlled landscapes, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022
 
 `2021`
-**Boris Gailleton**, Hugh Sinclair, Simon Mudd, Emma Graf, Liviu Matenco. Unravelling present days tectonics from channel steepness in a lithologically complex landscape. 27e édition de la Réunion des Sciences de la Terre, SGF, CNRS, Laboratoire de Géologie de Lyon ou l’étude de la Terre, des planètes et de l’environnement, Nov 2021, Lyon, France.
+**Gailleton, B.**, Hugh Sinclair, Simon Mudd, Emma Graf, Liviu Matenco. Unravelling present days tectonics from channel steepness in a lithologically complex landscape. 27e édition de la Réunion des Sciences de la Terre, SGF, CNRS, Laboratoire de Géologie de Lyon ou l’étude de la Terre, des planètes et de l’environnement, Nov 2021, Lyon, France.
 
 `2021`
 **Gailleton, B.**, Malatesta, L., Braun, J., & Cordonnier, G. (2021). Dynamic modelling framework to track sediment provenance and solve lakes in long-term landscape evolution models, EGU General Assembly 2021, Vienna, Austria
