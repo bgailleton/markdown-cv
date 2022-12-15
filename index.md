@@ -21,7 +21,7 @@ Projets de recherche:
   
 · Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique    
 · Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale    
-· Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d'évenements court-terme (e.g. glissements de terrains, inondations majeures)  
+· Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d’événements court-terme (e.g. glissements de terrains, inondations majeures)  
 
 ## Postes passés
 `2019 - 2020`
@@ -33,13 +33,13 @@ Projets de recherche:
 · Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink  
 · Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface  
 · Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)  
-· Développement et deploiement de code `c++` et `python`
+· Développement et déploiement de code `c++` et `python`
 
 ### RSE
 **Ingenieur de recherche** (Research Software Engineer) pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
 `2019 - 2020`  
-· Prediciton de glissement de terrain en liant une approche de modèles numérique avec des données INSAR  
-· Développement et deploiement de code `c++` et `python`
+· Prédictions de glissement de terrain en liant une approche de modèles numérique avec des données INSAR  
+· Développement et déploiement de code `c++` et `python`
 
 ## Parcours Académique
 
@@ -47,7 +47,7 @@ Projets de recherche:
 `2016 - 2020`
 
 _Disentangling composite forcings on river channel steepness in heterogeneous landscapes_:  
-· Dévelopement de méthodes numériques pour l'analyse de MNT pour en extraire des informations sur la tectonique  
+· Développement de méthodes numériques pour l'analyse de MNT pour en extraire des informations sur la tectonique  
 · Étude approfondie de la géomorphométrie fluviale via les proxy dit des indices de concavité et de la pente normalisée des rivières  
 · Relevés terrain d'échantillon pour analyse cosmogéniques et analyse de résistance de roches in-situ  
 · Développement de logiciel de recherche (LSDTopoTools)
