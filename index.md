@@ -19,9 +19,9 @@ Post-doctorant - Université Rennes 1
 
 Projets de recherche:  
   
-· Développement de `graphflood` - calcul efficace de l'hydrodynamique des rivières
+· Développement de graphflood - calcul efficace de l'hydrodynamique des rivières
 · Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale    
-· Couplages morphodynamique - hydrodynamique
+· Couplages morphodynamique - hydrodynamique à travers les échelles de temps
 
 ## Postes passés
 `2019 - 2020`
@@ -33,7 +33,6 @@ Projets de recherche:
 · Développement de modèles numériques d'évolution de paysages et de systèmes source-to-sink  
 · Focus sur le traçage et le trajet de flux sédimentaire en domaines complexifiés par des lacs et des hétérogénéités de processus de surface  
 · Développement de logiciel de recherche (LSDTopoTools, fastscapelib, CHONK)  
-· Développement et déploiement de code c++ et python
 
 ### RSE
 **Ingenieur de recherche** (Research Software Engineer) pour le projet FORESEE, pour un consortium entre l'University of Edinburgh et Telespazio 
