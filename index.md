@@ -19,9 +19,9 @@ Post-doctorant - Université Rennes 1
 
 Projets de recherche:  
   
-· Développement de méthodes numériques pour Landscape Evolution Modelling (LEM) et d'analyses topographique    
+· Développement de `graphflood` - calcul efficace de l'hydrodynamique des rivières
 · Application de méthodes hydrodynamiques sur la géomorphométrie à échelle globale    
-· Étude de la signature sédimentologique et géomorphologique à échelle de géologique géologique d’événements court-terme (e.g. glissements de terrains, inondations majeures)  
+· Couplages morphodynamique - hydrodynamique
 
 ## Postes passés
 `2019 - 2020`
