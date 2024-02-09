@@ -6,7 +6,7 @@ title: CV Boris GAILLETON
 Post-doctorant - Université Rennes 1
 
 <div id="webaddress">
-<a href="boris.gailleton@univ-rennes1.fr">boris.gailleton@univ-rennes1.fr</a>
+<a href="boris.gailleton@univ-rennes1.fr">boris.gailleton@univ-rennes.fr</a>
 | <a href="bgailleton.github.io">bgailleton.github.io</a>
 </div>
 
@@ -82,8 +82,20 @@ A list is also available [online](https://scholar.google.fr/citations?user=r5HIc
 
 ### Journals
 
-`submitted`
-**Gailleton, B.**, Malatesta L., Cordonnier G., and Braun J. (sumitted) CHONK landscape evolution framework: cellular automata meets graph theory
+`2024`
+Graf, E. L., Sinclair, H. D., Attal, M., Gailleton, B., Adhikari, B. R., & Baral, B. R. (2024). Geomorphological and hydrological controls on sediment export in earthquake-affected catchments in the Nepal Himalaya. Earth Surface Dynamics, 12(1), 135-161.
+
+`2024`
+Sánchez-Oro, M. R., Mudd, S. M., & **Gailleton, B.** (2024). Can we use topography to differentiate between area and discharge-driven incision rules, and if not how bad are our estimates of channel steepness?. Authorea Preprints.
+
+`2024`
+**Gailleton, B.**, Malatesta, L. C., Cordonnier, G., & Braun, J. (2024). CHONK 1.0: landscape evolution framework: cellular automata meets graph theory. Geoscientific Model Development, 17(1), 71-90.
+
+`2024`
+Oryan, B., Olive, J. A., Jolivet, R., Malatesta, L., **Gailleton, B.**, & Bruhat, L. (2024). Megathrust locking encoded in subduction landscapes. EarthArXiv.
+
+`2023`
+Aminov, J., Dupont-Nivet, G., Ruiz, D., & **Gailleton, B.** (2023). Paleogeographic reconstructions using QGIS: Introducing Terra Antiqua plugin and its application to 30 and 50 Ma maps. Earth-Science Reviews, 104401.
 
 `2022`
 Shobe, C. M., Braun, J., Yuan, X., Campforts, B., Gailleton, B., Baby, G., F. Guillochaud & Robin, C. (2022). Inverting passive margin stratigraphy for marine sediment transport dynamics over geologic time. Basin Research, 34(6), 2111-2134.
@@ -117,8 +129,11 @@ Mudd, S. M., Clubb, F. J., **Gailleton, B.**, and Hurst, M. D. (2018) How concav
 
 ### Software
 
-`submitted`
-**Gailleton, B.** (2022) CHONK prototype, a graph-based cellular automata proof of concept, submitted to _GMD_
+`2023`
+**Gailleton, B.**, Steer, P., Davy, P., Schwanghart, W., & Bernard, T. (2023). GraphFlood: a fast stationary solution for 2D hydrodynamics in landscapes evolution models. In EGU General Assembly 2023 (pp. EGU23-3421).
+
+`2023`
+**Gailleton B.**. (2023). CHONK 1.0 (1.0). Zenodo.
 
 `2022`
 Mudd, S.M., Clubb, F.J., Grieve, S.W.D., Milodowski, D.T., **Gailleton, B.**, Hurst, M.D., Valters, D.V., Wickert, A.D., & Hutton, E.W.H. (2022). LSDtopotools/LSDTopoTools2: LSDTopoTools2 v0.7 (v0.7). Zenodo.
@@ -136,6 +151,24 @@ Benoit Bovy, G. D. McBain, **Gailleton, B.**, & Raphael Lange. (2021). benbovy/x
 **Gailleton, B.**, Ruiz Sanchez-Oro, M., Goodwin, G.C.H., Kinnear, L., & Mudd, S.M. (2021). lsdfailtools (0.1).
 
 ### Conference papers
+
+`2023`
+Gailleton, B., Steer, P., Davy, P., Schwanghart, W., & Bernard, T. (2023, October). GraphFlood: un algorithme efficace pour simuler l'hydrodynamisme dans les modèles d'évolution de paysages et les MNT haute-résolutions. In 28 ème édition de la Réunion des sciences de la Terre (RST 2023).
+
+`2023`
+Steer, P., **Gailleton, B.**, Davy, P., & Lague, D. (2023). Développement d'un nouveau modèle numérique de dynamique des paysages pour étudier l'impact des évènements extrêmes sur la dynamique des reliefs. In 28 ème édition de la Réunion des sciences de la Terre (RST 2023).
+
+`2023`
+Ruiz Sánchez-Oro, M., Mudd, S. M., & **Gailleton, B.** (2023). Determining the correct river incision mechanism under different climatic and lithological conditions using disorder metrics. In EGU General Assembly Conference Abstracts (pp. EGU-6003).
+
+`2023`
+Dupont-Nivet, G., Aminov, J., Ruiz, D., van der Linden, T., **Gailleton, B.**, Roperch, P., ... & van Hinsbergen, D. (2023). New tools on Terra Antiqua 2.0 applied to reconstructing the paleogeography of the India-Asia collision. In EGU General Assembly 2023 (pp. EGU23-14003).
+
+`2023`
+Oryan, B., Olive, J. A. L., Malatesta, L. C., **Gailleton, B.**, & Jolivet, R. (2022). Spatial patterns of long-term forearc uplift inferred from river profiles, and their comparison with short-term deformation. In AGU Fall Meeting Abstracts (Vol. 2022, pp. T55A-02).
+
+`2023`
+Shobe, C., Braun, J., Yuan, X., Campforts, B., **Gailleton**, B., Baby, G. & Robin, C. (2022). Deciphering Passive Margin Stratigraphy to Reveal Seascape Evolution Processes. In AGU Fall Meeting Abstracts (Vol. 2022, pp. EP52B-0756).
 
 `2022`
 Voigtländer, A., Turowski, J. M., and **Gailleton, B.**: Stressed landscape evolution, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022
